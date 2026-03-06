@@ -1,0 +1,5 @@
+{
+  "name": "OpenBiz PWA",
+  "description": "A comprehensive, open-source Business Management & Accounting PWA for local-first operations.",
+  "requestFramePermissions": ["camera", "clipboard-read", "clipboard-write"]
+}
